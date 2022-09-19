@@ -1,5 +1,5 @@
-var minTime = 13 * 1000; // 30 seconds
-var interval = 19 * 1000; // 130 seconds
+var minTime = 30 * 1000; // 30 seconds
+var interval = 130 * 1000; // 130 seconds
 var adsTimer =
 function()
 {
